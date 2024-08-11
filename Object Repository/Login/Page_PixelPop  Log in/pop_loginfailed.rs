@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pop_loginfailed</name>
+   <tag></tag>
+   <elementGuidId>7c7e0cdd-3159-4701-9eb4-8fb751ebf0b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.YAlert.error.doneOnly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/dialog[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>58ed89c4-748f-474c-864a-ff87298694b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YAlert error doneOnly</value>
+      <webElementGuid>8332cce7-f874-439f-984b-7cde8a0000b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login Failed!Unsuccessful login, an error occurred.Close</value>
+      <webElementGuid>ece3866b-43bb-4928-a585-f1a52a06ccda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/dialog[@class=&quot;css-1b5c4qc&quot;]/div[@class=&quot;YAlert error doneOnly&quot;]</value>
+      <webElementGuid>d519b334-158a-4e1c-a793-58fc7ca2606d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/dialog[2]/div</value>
+      <webElementGuid>13cb4ea1-6079-46f4-83f3-071b313fc479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::div[13]</value>
+      <webElementGuid>c988bd9b-5c08-4eef-a5f2-73659d45a074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::div[14]</value>
+      <webElementGuid>89f00c2e-4e9e-4218-bdfd-e267fcac7158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dialog[2]/div</value>
+      <webElementGuid>41d345a7-d116-41ca-a3aa-1358d4df5372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login Failed!Unsuccessful login, an error occurred.Close' or . = 'Login Failed!Unsuccessful login, an error occurred.Close')]</value>
+      <webElementGuid>5e92d833-cc55-4438-9ed7-7336ce044efd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

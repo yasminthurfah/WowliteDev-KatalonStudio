@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tb_SearchDisplayInside</name>
+   <tag></tag>
+   <elementGuidId>759c5100-f25a-4705-a523-27acbded0165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div/div/input</value>
+      <webElementGuid>afd7e2ee-460b-429f-8c3a-24efb2e210d2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

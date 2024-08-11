@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_AllMedia</name>
+   <tag></tag>
+   <elementGuidId>842df707-8798-4880-8bc0-58f7ec1a7724</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[2]/div[2]/div/div/div/div/div[2]/div[6]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.total</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b19f35e5-d9b0-47cd-aa1d-0b83545f31ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item total</value>
+      <webElementGuid>d54f640e-5f1a-4f52-ab8f-ed96f5713362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>40+</value>
+      <webElementGuid>46ae797e-a8af-4f71-a2fc-7612155143e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-fjo1i1&quot;]/div[@class=&quot;YGrid-root css-1cstzm0&quot;]/div[@class=&quot;YGridItem-root css-cfdvn5&quot;]/div[@class=&quot;YBox-root container css-87s48d&quot;]/div[@class=&quot;total css-gr2ly1&quot;]/div[@class=&quot;YBox-root content css-87s48d&quot;]/div[@class=&quot;YBox-root content-preview css-87s48d&quot;]/div[6]/div[@class=&quot;item total&quot;]</value>
+      <webElementGuid>401d72c9-1436-4153-8d7a-9fefbf5367cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[2]/div[2]/div/div/div/div/div[2]/div[6]/div</value>
+      <webElementGuid>de83d39a-eb38-4fd9-9468-b1670fa32d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[33]</value>
+      <webElementGuid>8fa67f2e-feb4-4f6f-96cb-4daf305e24ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting'])[1]/following::div[34]</value>
+      <webElementGuid>86411e59-9db5-49a1-a468-26c9ba8ca2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hours'])[1]/preceding::div[28]</value>
+      <webElementGuid>6471dbdd-cfd6-4662-a3af-e3f52ac5f36c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Days'])[1]/preceding::div[28]</value>
+      <webElementGuid>a86a0079-edae-45e1-b00f-f5edf68334a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[6]/div</value>
+      <webElementGuid>c3d6c5dd-4559-430b-af7d-fff325e50eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '40+' or . = '40+')]</value>
+      <webElementGuid>c33300d2-92d0-44de-b146-25db7e607b84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

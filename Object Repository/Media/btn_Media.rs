@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Media</name>
+   <tag></tag>
+   <elementGuidId>9db7bd32-dd89-4e1f-bc93-4736f08398d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[1]/div[2]/div[1]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[1]/div[2]/div[1]/button[1]</value>
+      <webElementGuid>e7a8bca6-0e9a-4510-b211-989abd2168f8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

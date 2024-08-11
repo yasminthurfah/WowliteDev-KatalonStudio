@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_changeprofpic</name>
+   <tag></tag>
+   <elementGuidId>02f8a4b5-71db-4d73-a483-614134026aaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;file&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;file&quot;]</value>
+      <webElementGuid>5c60433d-c6d3-4144-aae8-a22f00bb6545</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

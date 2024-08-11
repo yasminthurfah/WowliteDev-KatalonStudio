@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_uploadmedia_inside</name>
+   <tag></tag>
+   <elementGuidId>95c9bdb3-a89e-4e86-ae67-1266b9ca0562</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/dialog/div[2]/div/div[2]/div[2]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/dialog/div[2]/div/div[2]/div[2]/div/div/button</value>
+      <webElementGuid>00b732dc-b67d-4e05-b1d9-a597a67aa6bd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

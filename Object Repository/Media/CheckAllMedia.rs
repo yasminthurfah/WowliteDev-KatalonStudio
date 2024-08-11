@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CheckAllMedia</name>
+   <tag></tag>
+   <elementGuidId>03833dc0-5d27-46a9-a3cb-822f28b0dd28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/thead/tr/td[1]/div[2]/label/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/thead/tr/td[1]/div[2]/label/div/input</value>
+      <webElementGuid>699410cf-0c4a-42d1-94cd-6e87680fad2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>fadf21a0-5e1b-45c6-a129-40fdb9727e73</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Button Delete Display 2nd row list</description>
+   <name>btn_DeleteDisplay</name>
+   <tag></tag>
+   <elementGuidId>a90b1e13-92a9-420b-b3c7-a70dac6baad2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/tbody/tr[3]/td[8]/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1220be77-f7a5-4a62-ab32-af14d8d6db04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/tbody/tr[3]/td[8]/div/button[3]</value>
+      <webElementGuid>e04a7b7d-576b-4198-8f7b-bf297cb6f2d8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

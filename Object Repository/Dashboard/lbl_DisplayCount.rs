@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_DisplayCount</name>
+   <tag></tag>
+   <elementGuidId>794b93f4-2673-4fb4-b8bb-81105c02cf93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[2]/div[1]/div/div[2]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[2]/div[1]/div/div[2]/div/div[1]</value>
+      <webElementGuid>c832acd3-59ec-4f9d-9087-9946d1f44a75</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

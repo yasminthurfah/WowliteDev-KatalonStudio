@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tb_Duration</name>
+   <tag></tag>
+   <elementGuidId>3244887b-31ea-4b3c-91a1-c476f424f524</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/thead/tr/td[3]/div/div[2]/div/div/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/thead/tr/td[3]/div/div[2]/div/div/div[1]/input</value>
+      <webElementGuid>28c34a58-b69e-4683-94d2-abcdacc36f06</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_SecondSearchResultDisplay</name>
+   <tag></tag>
+   <elementGuidId>a08458e2-d491-4ce2-95e6-f1cda0129e33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/tbody/tr[3]/td[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/tbody/tr[3]/td[2]/p</value>
+      <webElementGuid>ff901d62-25ea-44e7-911a-1d80bf9fce0d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_StopDisplay</name>
+   <tag></tag>
+   <elementGuidId>e07da464-2291-4a9a-9985-4fcdbad2ecb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/tbody/tr[3]/td[8]/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51e8a06c-45d1-48e3-b2b2-c36122e2d61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/tbody/tr[3]/td[8]/div/button[1]</value>
+      <webElementGuid>866dbd46-7b57-4e2b-98c7-81a724ca0205</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

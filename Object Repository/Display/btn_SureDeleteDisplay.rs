@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Button Confirmation for Delete Display</description>
+   <name>btn_SureDeleteDisplay</name>
+   <tag></tag>
+   <elementGuidId>5549494d-7600-4051-af28-68e2ae4d52d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/dialog[2]/div/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>17737a53-a6f9-4dbb-81b6-8c2e912cc226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/dialog[2]/div/div[2]/button[2]</value>
+      <webElementGuid>ea88692b-2996-4f05-bcf1-035bdbe366d4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

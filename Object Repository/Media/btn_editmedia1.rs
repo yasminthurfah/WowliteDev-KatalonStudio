@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_editmedia1</name>
+   <tag></tag>
+   <elementGuidId>98977581-d227-4693-8ed0-0c2771c0c458</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/tbody/tr[13]/td[6]/div/button[1]/svg/path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/tbody/tr[13]/td[6]/div/button[1]/svg/path</value>
+      <webElementGuid>ae466d68-7de8-47cf-b840-c63e1355655f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

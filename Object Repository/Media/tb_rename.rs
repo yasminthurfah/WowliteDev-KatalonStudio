@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tb_rename</name>
+   <tag></tag>
+   <elementGuidId>b068fbce-a0a2-4247-bf41-a4f44fba038e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div[1]/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[2]/div[2]/div/div[1]/div[2]/div/div[1]/div/div/div/input</value>
+      <webElementGuid>90dae5da-6f5c-4793-abe7-4e0c35aba3dd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

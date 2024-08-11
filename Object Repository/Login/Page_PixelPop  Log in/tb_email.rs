@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tb_email</name>
+   <tag></tag>
+   <elementGuidId>e97f39df-527b-4886-934f-400cc97bb1ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/div[2]/main/section/form/div[3]/div/div[2]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/div[2]/main/section/form/div[3]/div/div[2]/div/div/input</value>
+      <webElementGuid>411523ac-6be2-4c70-b695-37e272b63714</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

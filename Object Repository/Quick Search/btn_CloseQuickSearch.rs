@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_CloseQuickSearch</name>
+   <tag></tag>
+   <elementGuidId>dad46099-7b5b-4644-b4bf-84f5bf1aaee9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/dialog[1]/div[2]/div/div[1]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/dialog[1]/div[2]/div/div[1]/div/div/div/div[2]</value>
+      <webElementGuid>d88aad17-28dd-4eff-ab55-021b9eba41ec</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

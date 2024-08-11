@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tb_Resolution</name>
+   <tag></tag>
+   <elementGuidId>5792123c-0e3c-4d88-8e15-e5db659457ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/thead/tr/td[4]/div/div[2]/div/div/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__next&quot;]/main/div/div[2]/div[3]/div/table/thead/tr/td[4]/div/div[2]/div/div/div[1]/input</value>
+      <webElementGuid>5734b314-c474-43b0-92cf-a0262812ec7e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
